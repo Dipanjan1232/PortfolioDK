@@ -8,28 +8,28 @@ const projects = [
     title: "Rakshak",
     category: "Multi-terrain Amphibian robotic system for military and disaster management applications.",
     tools: "OpenCV, GPS Module, Motor Drivers, Wireless Communication",
-    image: "public/images/WhatsApp Image 2025-12-07 at 12.47.46 PM.jpeg",
+    image: "/images/WhatsApp Image 2025-12-07 at 12.47.46 PM.jpeg",
     
   },
   {
     title: "KrishiMitra AI",
     category: " Built an AI-powered chatbot to assist farmers with crop recommendations and agricultural support services.",
     tools: "ESP32, Soil NPK/pH sensors, OpenAI API, AWS Cloud, Python, Flask, OpenCV.",
-    image: "public/images/Screenshot 2026-05-22 191451.png",
+    image: "/images/Screenshot 2026-05-22 191451.png",
     
   },
   {
     title: "Face Recognition Based Attendance Management System",
     category: "Real-time face detection and automated attendance logging with a full student management dashboard.",
     tools: "Python, OpenCV, Face Recognition Library, MySQL, Tkinter.",
-    image: "public/images/Screenshot 2026-05-21 115904.png",
+    image: "/images/Screenshot 2026-05-21 115904.png",
     
   },
   {
     title: "Smart Waste Management for Cleaner Cities",
     category: "IoT-enabled bin that automatically separates wet and dry waste and sends real-time fill-level data to the cloud.",
     tools: "ESP8266, Moisture sensors, Servo motors, Blynk/ThingSpeak, Arduino IDE.",
-    image: "public/images/1764569282581.jpeg",
+    image: "/images/1764569282581.jpeg",
     
   },
 ];
