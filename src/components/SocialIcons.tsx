@@ -78,7 +78,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="public/Dipanjan_Khatua.pdf"
+        href="/Dipanjan_Khatua.pdf"
         target="_blank"
         rel="noreferrer"
       >
